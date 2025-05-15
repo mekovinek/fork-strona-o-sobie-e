@@ -1,5 +1,0 @@
-*.log
-*.tmp
-*.md
-!README.md
-.DS_Store
